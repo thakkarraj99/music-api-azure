@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="finalWebAPI20180108111649" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Mogli\\source\\repos\\finalWebAPI\\finalWebAPI\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Mogli\\source\\repos\\finalWebAPI\\finalWebAPI\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="artistsDBEntities-Web.config Connection String" description="" value="metadata=res://*/ArtistDataModel.csdl|res://*/ArtistDataModel.ssdl|res://*/ArtistDataModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.\SQLEXPRESS;initial catalog=artistsDB;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Mogli\\source\\repos\\finalWebAPI\\finalWebAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='artistsDBEntities']/@connectionString" />
+  </parameter>
+</parameters>

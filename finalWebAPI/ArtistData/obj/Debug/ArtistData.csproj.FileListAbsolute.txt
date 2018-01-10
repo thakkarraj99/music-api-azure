@@ -1,0 +1,11 @@
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\bin\Debug\ArtistData.dll.config
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\bin\Debug\ArtistData.dll
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\bin\Debug\ArtistData.pdb
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\bin\Debug\EntityFramework.dll
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\bin\Debug\EntityFramework.xml
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\obj\Debug\ArtistData.csprojResolveAssemblyReference.cache
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\obj\Debug\ArtistData.csproj.CoreCompileInputs.cache
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\obj\Debug\ArtistData.dll
+C:\Users\Mogli\source\repos\finalWebAPI\ArtistData\obj\Debug\ArtistData.pdb
